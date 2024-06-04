@@ -9,4 +9,5 @@ Data from servel does not include geografic coordinates to aid an geo spatial an
 This is an ongoing effort, updating and adding data from upcoming elections. 
 
 The Data Visualization is available here 
+
 Looker Studio https://lookerstudio.google.com/reporting/32169448-0a90-483a-be5f-ef88e80f361f
